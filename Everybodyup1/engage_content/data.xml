@@ -1,0 +1,129 @@
+<Interaction Type="FAQ" ContentFolder="proj_content" Title="Everybody up 1" Numbering="0" animation="bounce" contentfont="Articulate" jpegquality="80" autoplay="false" autoplayduration="5" headingfont="Articulate" navfont="Articulate" soundeffects="true" volumebutton="true" audioquality="low" audiocustombitrate="br112Kbps" audiocustomfrequency="fq12KHz" audiocustomchannel="ccMono" navbuttons="true" forceorder="false" detectflashver="true" version="2.2.907.1413" borderstyle="round_inset">
+  <Search enabled="true" searchtext="Search" resulttext="found for" />
+  <steps>
+    <Step id="e71bbd8c-34d3-4216-a5af-2d5a9a5d9139" name="Everybody up 1" title="" number="" html="&lt;p&gt;&lt;font face='Articulate' size='16' color='#000000'&gt; &lt;/font&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;" intro="true">
+      <image width="199" height="154" zoomheight="200" playbar="false" autoplay="false" zoomwidth="258" zoommode="Embedded" allowzoom="true" align="top" duration="0" framerate="30" name="image33.jpg" zoomimage="imageZoom33.jpg" />
+    </Step>
+    <Step id="835fa6f6-983b-4a12-abdd-ea3ba0e6f6cc" name="Welcome p3" title="" number="" html="&lt;p&gt;&lt;font face='Articulate' size='16' color='#000000'&gt; &lt;/font&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;">
+      <image width="211" height="154" zoomheight="513" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="top" duration="0" framerate="30" name="image32.jpg" zoomimage="imageZoom32.jpg" />
+      <audio name="audio34.mp3" source="audioSource34.wav" duration="33593" />
+    </Step>
+    <Step id="3f51d3c4-4729-4bca-aebe-00053e63a8f9" name="U1__ L1__School Supplies__p4" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color=''&gt;School Supplies&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="150" zoomheight="171" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image3.jpg" zoomimage="imageZoom3.jpg" />
+      <audio name="audio6.mp3" source="audioSource6.wav" duration="41117" />
+    </Step>
+    <Step id="1893aeef-81ab-4e1f-be19-e96f3d48e8bd" name="U1__ L2__School Supplies__p6" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color=''&gt;School Supplies&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="150" zoomheight="171" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image4.jpg" zoomimage="imageZoom4.jpg" />
+      <audio name="audio7.mp3" source="audioSource7.wav" duration="28601" />
+    </Step>
+    <Step id="0b2423ac-5cbf-4e4e-8fb1-a33e0e7ef59c" name="U1__ L4__Shapes__p10" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color=''&gt;Shapes&lt;/font&gt;&lt;/p&gt;">
+      <image width="536" height="154" zoomheight="202" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image5.jpg" zoomimage="imageZoom5.jpg" />
+      <audio name="audio8.mp3" source="audioSource8.wav" duration="28867" />
+    </Step>
+    <Step id="cd44372a-1e9d-4900-9da0-abdab30fadbe" name="U2__ L1__Art Supplies__p12" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#ff0000'&gt;&lt;b&gt;Art Supplies&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="152" zoomheight="172" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image6.jpg" zoomimage="imageZoom6.jpg" />
+      <audio name="audio9.mp3" source="audioSource9.wav" duration="40359" />
+    </Step>
+    <Step id="fc026fd5-4d69-47d2-96a9-b37c1846d589" name="U2__ L2__Colors__p14" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#ff0000'&gt;&lt;b&gt;Colors&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="148" zoomheight="168" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image7.jpg" zoomimage="imageZoom7.jpg" />
+      <audio name="audio10.mp3" source="audioSource10.wav" duration="32859" />
+    </Step>
+    <Step id="1b5bb3d1-9ff7-4b96-a5ff-da73630cebde" name="U2__ L4__Colors__p18" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#ff0000'&gt;&lt;b&gt;Colors&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="611" height="154" zoomheight="177" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image8.jpg" zoomimage="imageZoom8.jpg" />
+      <audio name="audio11.mp3" source="audioSource11.wav" duration="36984" />
+    </Step>
+    <Step id="6b527ec2-92ae-4b51-84ce-2d721038cfd8" name="Review1__Phonics__p21" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#0000ff'&gt;&lt;b&gt;Phonics&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="222" height="154" zoomheight="488" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image10.jpg" zoomimage="imageZoom10.jpg" />
+      <audio name="audio13.mp3" source="audioSource13.wav" duration="50515" />
+    </Step>
+    <Step id="4693eb4c-4169-4174-ac60-abd6b27b0d70" name="U3__ L1__Numbers__p22" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#0000ff'&gt;&lt;b&gt;Numbers&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="396" height="154" zoomheight="273" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image9.jpg" zoomimage="imageZoom9.jpg" />
+      <audio name="audio12.mp3" source="audioSource12.wav" duration="47648" />
+    </Step>
+    <Step id="90359cfc-0b28-4256-9d4b-a0c3d4c99021" name="U3__ L2__Toys__p24" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#00ff40'&gt;&lt;b&gt;Toys&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="375" height="154" zoomheight="289" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image11.jpg" zoomimage="imageZoom11.jpg" />
+      <audio name="audio14.mp3" source="audioSource14.wav" duration="38812" />
+    </Step>
+    <Step id="f02f0abc-e155-4da7-88b8-c6f07375be97" name="U3__ L4__Toys__p28" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#00ff40'&gt;&lt;b&gt;Toys&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="573" height="154" zoomheight="189" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image12.jpg" zoomimage="imageZoom12.jpg" />
+      <audio name="audio15.mp3" source="audioSource15.wav" duration="27765" />
+    </Step>
+    <Step id="947ce565-40f8-4eeb-8c04-036f8c0db176" name="U4__ L1__Family__p30" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#ff00ff'&gt;&lt;b&gt;Family&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="149" zoomheight="169" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image13.jpg" zoomimage="imageZoom13.jpg" />
+      <audio name="audio16.mp3" source="audioSource16.wav" duration="39757" />
+    </Step>
+    <Step id="931d3a0a-20ad-4d5b-a8e9-80d0b3963dc4" name="U4__ L2__Food__p32" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#ff0080'&gt;&lt;b&gt;Food&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="151" zoomheight="171" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image14.jpg" zoomimage="imageZoom14.jpg" />
+      <audio name="audio17.mp3" source="audioSource17.wav" duration="27867" />
+    </Step>
+    <Step id="c637dfbb-1664-4e63-adf9-93593e2ca814" name="U4__ L4__Food__p36" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#ff0080'&gt;&lt;b&gt;Food&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="550" height="154" zoomheight="197" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image15.jpg" zoomimage="imageZoom15.jpg" />
+      <audio name="audio18.mp3" source="audioSource18.wav" duration="27585" />
+    </Step>
+    <Step id="f3c33384-0eb7-4dbc-b25a-69d1bc281f42" name="Review2__Phonics__p39" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#0000ff'&gt;&lt;b&gt;Phonics&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="227" height="154" zoomheight="476" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image16.jpg" zoomimage="imageZoom16.jpg" />
+      <audio name="audio19.mp3" source="audioSource19.wav" duration="43046" />
+    </Step>
+    <Step id="e88d59b9-8013-4279-910f-ddc67eb31318" name="U5__ L1__Nature__p40" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#008080'&gt;&lt;b&gt;Nature&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="154" zoomheight="175" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image17.jpg" zoomimage="imageZoom17.jpg" />
+      <audio name="audio20.mp3" source="audioSource20.wav" duration="39179" />
+    </Step>
+    <Step id="3f65cc4a-8627-4ec7-b479-a65c787a693f" name="U5__ L2__Playtime__p42" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#008040'&gt;&lt;b&gt;Playtime&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="154" zoomheight="175" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image18.jpg" zoomimage="imageZoom18.jpg" />
+      <audio name="audio21.mp3" source="audioSource21.wav" duration="29781" />
+    </Step>
+    <Step id="56ce2a2d-59fb-4850-99c2-2653d04f87fa" name="U5__ L4__Animals__p46" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#008080'&gt;&lt;b&gt;Animals&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="153" zoomheight="173" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image19.jpg" zoomimage="imageZoom19.jpg" />
+      <audio name="audio22.mp3" source="audioSource22.wav" duration="28156" />
+    </Step>
+    <Step id="8da55702-5fba-4533-9e07-85d831290cc7" name="U6__ L1__Animals__p48" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#008080'&gt;&lt;b&gt;Animals&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="150" zoomheight="171" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image20.jpg" zoomimage="imageZoom20.jpg" />
+      <audio name="audio23.mp3" source="audioSource23.wav" duration="40070" />
+    </Step>
+    <Step id="0adc68a0-b76b-4fc6-9d22-cea4d2f5b4eb" name="U6__ L2__Animals__p50" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#008080'&gt;&lt;b&gt;Animals&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="150" zoomheight="171" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image21.jpg" zoomimage="imageZoom21.jpg" />
+      <audio name="audio24.mp3" source="audioSource24.wav" duration="28156" />
+    </Step>
+    <Step id="8520797d-b932-4c2e-b7c8-6fea921ffb9e" name="U6__ L4__Abilities__p54" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#800000'&gt;&lt;b&gt;Abilities&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="567" height="154" zoomheight="191" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image22.jpg" zoomimage="imageZoom22.jpg" />
+      <audio name="audio25.mp3" source="audioSource25.wav" duration="28757" />
+    </Step>
+    <Step id="c5c49999-929c-40ad-ba8c-96731d689391" name="Review3__Phonics__p57" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#0000ff'&gt;&lt;b&gt;Phonics&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="221" height="154" zoomheight="490" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image23.jpg" zoomimage="imageZoom23.jpg" />
+      <audio name="audio26.mp3" source="audioSource26.wav" duration="49812" />
+    </Step>
+    <Step id="73016b16-18ef-44fc-9b71-d490db10b099" name="U7__ L1__My body__p58" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#ff8000'&gt;&lt;b&gt;My body&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="149" zoomheight="169" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image24.jpg" zoomimage="imageZoom24.jpg" />
+      <audio name="audio27.mp3" source="audioSource27.wav" duration="41062" />
+    </Step>
+    <Step id="83351063-5aea-4262-b98e-47cb591cdd0b" name="U7__ L2__My face__p60" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#ff8000'&gt;&lt;b&gt;My face&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="149" zoomheight="169" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image25.jpg" zoomimage="imageZoom25.jpg" />
+      <audio name="audio28.mp3" source="audioSource28.wav" duration="28265" />
+    </Step>
+    <Step id="bab10000-5d95-4d29-9065-0422f7ce8a50" name="U7__ L4__Healthy Habits__p64" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#800000'&gt;&lt;b&gt;Healthy Habits&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="612" height="154" zoomheight="177" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image26.jpg" zoomimage="imageZoom26.jpg" />
+      <audio name="audio29.mp3" source="audioSource29.wav" duration="30953" />
+    </Step>
+    <Step id="f649c011-9037-440f-bd04-e092753af4cc" name="U8__ L1__Adjectives__p66" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#400080'&gt;&lt;b&gt;Adjectives&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="147" zoomheight="167" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image27.jpg" zoomimage="imageZoom27.jpg" />
+      <audio name="audio30.mp3" source="audioSource30.wav" duration="40773" />
+    </Step>
+    <Step id="506c7820-cbe9-4d40-894b-fc06e881bc8b" name="U8__ L2__Adjectives__p68" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#400080'&gt;&lt;b&gt;Adjectives&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="147" zoomheight="167" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image28.jpg" zoomimage="imageZoom28.jpg" />
+      <audio name="audio31.mp3" source="audioSource31.wav" duration="28289" />
+    </Step>
+    <Step id="128d8aa8-7e03-40a5-a784-9dd5151444bb" name="U8__ L4__Transportation__p72" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#400080'&gt;&lt;b&gt;Transportation&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="617" height="149" zoomheight="169" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image29.jpg" zoomimage="imageZoom29.jpg" />
+      <audio name="audio32.mp3" source="audioSource32.wav" duration="28703" />
+    </Step>
+    <Step id="1170ea62-8afd-46e2-9bfa-b14923445b2f" name="Review4__Phonics__p75" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='47' color='#0000ff'&gt;&lt;b&gt;Phonics&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;">
+      <image width="221" height="154" zoomheight="490" playbar="false" autoplay="false" zoomwidth="700" zoommode="Embedded" allowzoom="true" align="bottom" duration="0" framerate="30" name="image30.jpg" zoomimage="imageZoom30.jpg" />
+      <audio name="audio33.mp3" source="audioSource33.wav" duration="39890" />
+    </Step>
+    <Step id="840c1841-5dba-4552-9eb5-3a79e8d98af9" name="Finish" title="" number="" html="&lt;p align='center'&gt;&lt;font face='Articulate' size='37' color='#804040'&gt;AHMEDSALAH27@YAHOO.COM&lt;/font&gt;&lt;/p&gt;">
+      <image width="489" height="154" zoomheight="189" playbar="false" autoplay="false" zoomwidth="597" zoommode="Embedded" allowzoom="true" align="top" duration="0" framerate="30" name="image31.jpg" zoomimage="imageZoom31.jpg" />
+    </Step>
+  </steps>
+  <starttip show="false" text="Click next to continue" />
+  <resume id="9c355edf-c0d8-4a06-a205-0aaa1e03af15" enabled="false" />
+</Interaction>
